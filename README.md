@@ -3,7 +3,7 @@
 
 I aspire towards a career that will allow me to channel my creativity through crafting fancy projects and engaging experiences.
 
-Skills: REACT / VUE  / NODE / GRAPHQL / JS / HTML / CSS
+Skills: ReactJS / VueJS  / NodeJS / GraphQL / JS / HTML / CSS
 
 
 
